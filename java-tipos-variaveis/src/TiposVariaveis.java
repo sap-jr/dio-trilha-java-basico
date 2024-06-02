@@ -18,8 +18,6 @@ public class TiposVariaveis {
         System.out.println(meuNome);
         System.out.println(numero);
         System.out.print(VALOR_DE_PI);
-
-
 /*short numeroCurto = 1;
 int numeroNormal = numeroCurto;
 short numeroCurto2 = (short) numeroNormal;
