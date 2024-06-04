@@ -1,19 +1,20 @@
 package edu.silvio.tiposvariaveis;
-//Tipos de dados:
-//inteiros: byte; short; int; long
-//int é o mais comumente usado
-//fracionados: float; double
-//Declaração de variáveis:
-//A estrutura padrão para se declarar uma variável:
-//<Tipo> <nomeVariavel> <atribuicaoDeValorOpcional>
-//Variáveis e Constantes:
+ /* Tipos de dados:
+ inteiros: byte; short; int; long
+ int é o mais comumente usado
+ fracionados: float; double
+ Declaração de variáveis:
+ A estrutura padrão para se declarar uma variável:
+ <Tipo> <nomeVariavel> <atribuicaoDeValorOpcional>
+ Variáveis e Constantes:*/
+
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         //estude tipos primitivos
         //estude a classe String que representa texto na aplicação
         String meuNome = "Silvio Junior";
-        int numero = 5;
-        numero = 10;
+        //int numero = 5;
+        int numero = 10;
         final double VALOR_DE_PI = 3.14;
         //VALOR_DE_PI = 10.75;
         System.out.println(meuNome);
