@@ -1,3 +1,4 @@
+package edu.silvio.tipodevariaveis;
 //Tipos de dados:
 //inteiros: byte; short; int; long
 //int é o mais comumente usado
