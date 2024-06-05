@@ -1,4 +1,4 @@
-package edu.silvio.metodosmarttv;
+package edu.silvio.metodosmartv;
 
 public class SmartTv {
     
